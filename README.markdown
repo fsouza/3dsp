@@ -6,4 +6,4 @@ Just clone this git repository and run:
 
     $ sudo bash Install_3DSPUSB.sh
 
-If you have any question, contact me: francisco [at] franciscosouza [dot] net
+If you have any question, contact me: github [at] franciscosouza [dot] net
