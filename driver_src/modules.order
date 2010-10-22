@@ -1,5 +1,0 @@
-kernel//home/francisco/BlueW-2310U_3.0.4_100820/driver_src/bus/3dspusbbus.ko
-kernel//home/francisco/BlueW-2310U_3.0.4_100820/driver_src/new_bluetooth/3dspusbbt.ko
-kernel//home/francisco/BlueW-2310U_3.0.4_100820/driver_src/private/new_bluetooth_priv/3dspusbbtpriv.ko
-kernel//home/francisco/BlueW-2310U_3.0.4_100820/driver_src/wlan/3dspusbwlan.ko
-kernel//home/francisco/BlueW-2310U_3.0.4_100820/driver_src/private/wlan_priv/3dspusbwlanpriv.ko

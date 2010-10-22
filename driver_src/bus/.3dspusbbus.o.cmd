@@ -1,1 +1,0 @@
-cmd_/home/francisco/BlueW-2310U_3.0.4_100820/driver_src/bus/3dspusbbus.o := ld -m elf_i386   -r -o /home/francisco/BlueW-2310U_3.0.4_100820/driver_src/bus/3dspusbbus.o /home/francisco/BlueW-2310U_3.0.4_100820/driver_src/bus/businit.o /home/francisco/BlueW-2310U_3.0.4_100820/driver_src/bus/busioctl.o 
