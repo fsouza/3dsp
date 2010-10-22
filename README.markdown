@@ -2,7 +2,11 @@
 
 I tried to compile the 3DSP source available at [3DSP official page](http://www.3dsp.com.cn), but it didn't work with Ubuntu 10.10, so I made some changes in the code and it works :)
 
-Just clone this git repository and run Install\_3DSP.sh:
+First, you should install all dependencies:
+
+    $ sudo aptitude install build-essential linux-headers-`uname -r`
+
+With all dependencies satisfied, just clone this git repository and run Install\_3DSP.sh:
 
     $ git clone http://github.com/franciscosouza/3dsp.git
     $ cd 3dsp
